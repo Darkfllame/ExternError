@@ -1,2 +1,1 @@
-### PS
-only took me 1 minutes
+PS: only took me 1 minutes
